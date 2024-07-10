@@ -12,7 +12,7 @@ function Home(){
              <Container> 
               <Row>
               <Col className="home">
-              <h2>
+              <h2 className="name">
                 JASEEM K S
               </h2>
               <Homemain/>
