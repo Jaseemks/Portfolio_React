@@ -1,0 +1,12 @@
+.contact {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+}
+
+.h2 {
+    text-align: center;
+    color: rgb(251, 251, 255); /* Set text color to blue */
+    text-decoration: underline; /* Add underline to text */
+}

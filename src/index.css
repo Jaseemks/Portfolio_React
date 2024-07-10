@@ -1,0 +1,8 @@
+
+
+
+.custom-navbar {
+    background: linear-gradient(to right, #fafc94, #e54c22);
+    border: 1px solid rgb(57, 113, 81); /* Adjust border color as needed */
+    border-radius: 0px; /* Adjust border radius as needed for rounded corners */
+ }
